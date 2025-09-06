@@ -1,0 +1,10 @@
+﻿{
+  "Name": "CarePackageMod",
+  "Author": "jennalouu",
+  "Version": "1.0.0",
+  "Description": "The Player will recive a special care package form their parents once a month and for specific events.",
+  "UniqueID": "jennalouu.CarePackageMod",
+  "EntryDll": "CarePackageMod.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

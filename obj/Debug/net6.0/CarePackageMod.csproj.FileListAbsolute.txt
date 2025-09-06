@@ -1,0 +1,8 @@
+D:\MyMods\CarePackageMod\bin\Debug\net6.0\CarePackageMod.deps.json
+D:\MyMods\CarePackageMod\bin\Debug\net6.0\CarePackageMod.dll
+D:\MyMods\CarePackageMod\obj\Debug\net6.0\CarePackageMod.csproj.AssemblyReference.cache
+D:\MyMods\CarePackageMod\obj\Debug\net6.0\CarePackageMod.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyMods\CarePackageMod\obj\Debug\net6.0\CarePackageMod.AssemblyInfoInputs.cache
+D:\MyMods\CarePackageMod\obj\Debug\net6.0\CarePackageMod.AssemblyInfo.cs
+D:\MyMods\CarePackageMod\obj\Debug\net6.0\CarePackageMod.csproj.CoreCompileInputs.cache
+D:\MyMods\CarePackageMod\obj\Debug\net6.0\CarePackageMod.dll
